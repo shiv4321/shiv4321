@@ -33,8 +33,8 @@
 **🎯 Current Focus**
 - Building production AI apps
 - Shipping Gen AI automation
-- Exploring RAG & Agentic AI
 - Optimizing LLM workflows
+- Exploring Agentic Systems
 
 </td>
 </tr>
