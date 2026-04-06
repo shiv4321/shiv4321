@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshp075@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiv4321)
 
-📍 **Varanasi, India** | 🎓 **MCA from BHU** | 💼 **Gen AI Developer @ Boot & Boost**
+📍 **Bengaluru, India** | 🎓 **MCA from BHU** | 💼 **Gen AI Developer @ Anatech Consultancy**
 
 </div>
 
