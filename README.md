@@ -56,9 +56,9 @@
 <tr>
 <td width="60%">
 
-### 🏢 **Gen AI Developer**
-**Boot & Boost Entrepreneur LLP** | *Sep 2024 - Present*  
-📍 Varanasi, India | 🔗 [bootboost.in](https://bootboost.in)
+### 🏢 **AI & Automation Associate**
+**Anatech Consultancy** | *Jan - Present*  
+📍 Bengaluru, India | 🔗 [Anatech Consultancy]()
 
 **Building AI systems that reduce manual effort by 85%**
 
