@@ -23,8 +23,8 @@
 
 **👨‍💻 Who I Am**
 - 🤖 Gen AI Developer
-- 🏢 @ Boot & Boost Entrepreneur LLP
-- 📍 Varanasi, India
+- 🏢 @ Anatech Consultancy
+- 📍 Bengaluru, India
 - 🎓 MCA from Banaras Hindu University
 
 </td>
